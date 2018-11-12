@@ -36,7 +36,7 @@ namespace ConsoleApp2
         }
         static void Main(string[] args)
         {
-            int[] arr = new int[5] { 10, 2, 4, 5, 19 };
+            int[] arr = new int[5] { 10, 2, 4, 5, 19 }; 
             Console.WriteLine(Max(arr));
             string[] companies = new string[] { "MSFT", "INTC", "CSCO", "GOOG" };
             float[] earnings = new float[] { -0.72f, 1.05f, 0.76f, -1.49f };
